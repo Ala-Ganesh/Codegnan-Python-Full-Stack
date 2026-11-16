@@ -63,6 +63,8 @@ My goal is not simply to complete the training syllabus. I aim to understand con
 
 B.Tech – Computer Science and Engineering (Data Science)
 
+Portfolio : alaganesh-portfolio.onrender.com
+
 GitHub: https://github.com/Ala-Ganesh
 
 LinkedIn: https://www.linkedin.com/in/alaganesh
